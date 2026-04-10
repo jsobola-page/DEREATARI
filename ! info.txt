@@ -1,0 +1,12 @@
+
+-dodane pliki (ze schematami, romami, instrukcje), które nie pobiera³y siê w aktualnie udostêpnionej wersji strony (~100 plików) +poprawki w html dla nich
+-poprawione linki do podstron
+-dodana 'zagubiona' (celowo lub przypadkiem) podstrona 'moje konstrukcje'
+-plik ze schematem xc12.zip: do zipa wrzuci³em ualktualnion¹ grafikê 'solder_side' po poprawce z maja 2020 (umiejscowienie Q4 oraz punkty zasilania silnika)
+
+nie poprawia³em:
+-treœci/tekstów
+-uk³adu stron
+-nazw plików
+
+t27, 2025-11-14
